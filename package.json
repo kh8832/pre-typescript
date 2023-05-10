@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kh8832/pre-typescript/issues"
   },
-  "homepage": "https://github.com/kh8832/pre-typescript#readme"
+  "homepage": "https://github.com/kh8832/pre-typescript#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
 }
